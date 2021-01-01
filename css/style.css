@@ -79,6 +79,7 @@ h6 {
     font-size: 16px;
 }
 
+
 p {
     font-size: 16px;
     font-family: "Muli", sans-serif;
@@ -4416,4 +4417,8 @@ ol {
 .accordion .card-head {
     border-bottom: 1px solid #e7ab3c;
     padding: 15px 0px;
+}
+.process {
+    box-sizing: border-box;
+    background: #f8f8f8;
 }
